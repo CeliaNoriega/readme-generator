@@ -25,10 +25,6 @@
 ## License:
 ### MIT License
 
-## Contributing:
-  
-  Contributor1, Contributer2, Contributer3
-
 ## Tests:
    Run tests by: node index.js
   
