@@ -41,7 +41,8 @@ ${licenseBadge}
 ## Questions?
     ${data.questions} 
     
-${data.github} 
+${data.github}
+
 ${data.email}`
 }
 
