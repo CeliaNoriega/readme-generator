@@ -7,7 +7,37 @@ const path = require('path')
 const questions = [
   { type: 'input',
     name: 'title',
-    message: 'What is the Title of your app?'
+    message: 'What is the Title of your project?'
+  },
+  {
+    type: 'input',
+    name: 'description',
+    message: 'Give a description for your project:'
+  },
+  {
+    type: 'input',
+    name: 'installation',
+    message: 'Please provide Instructions for installation:'
+  },
+  {
+    type: 'input',
+    name: 'usage',
+    message: 'Please include a how-to for your project:'
+  },
+  {
+    type: 'input',
+    name: 'contributing',
+    message: 'Please include any contributors to this project:'
+  },
+  {
+    type: 'input',
+    name: 'tests',
+    message: 'Please include instructions to test your project:'
+  },
+  {
+    type: 'input',
+    name: 'questions',
+    message: 'Please include instructions on how someone may reach out to you regarding questions to this porject:'
   },
   {
     type: 'input',
@@ -18,9 +48,18 @@ const questions = [
     type: 'input',
     name: 'email',
     message: 'What is your email address?'
-  }
-
+  },
 ];
+
+const lists = [ {
+  type: 'list',
+  name: 'License',
+  message: 'Choose a license for your project:',
+  choices: ['Large', 'Medium', 'Small'],
+  filter: function (val) {
+    return val.toLowerCase();
+  }
+]
 
 // function to write README file
 function writeToFile(fileName, data) {
