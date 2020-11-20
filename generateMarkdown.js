@@ -41,9 +41,8 @@ ${licenseBadge}
 ## Questions?
     ${data.questions} 
     
-${data.github}
-
-${data.email}`
+GitHub: ${data.github}
+Email: ${data.email}`
 }
 
 module.exports = generateMarkdown;
