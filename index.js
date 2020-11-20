@@ -53,11 +53,9 @@ const questions = [
 
 const lists = [ {
   type: 'list',
-  name: 'License',
+  name: 'license',
   message: 'Choose a license for your project:',
-  choices: ['Large', 'Medium', 'Small'],
-  filter: function (val) {
-    return val.toLowerCase();
+  choices: ['MIT License', 'Apache License 2.0', 'Mozilla Public License 2.0', 'GNU General PUblic LIcense v.3.0'],
   }
 ]
 
