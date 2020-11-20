@@ -36,11 +36,6 @@ const questions = [
   },
   {
     type: 'input',
-    name: 'questions',
-    message: 'Please include instructions on how someone may reach out to you regarding questions to this porject:'
-  },
-  {
-    type: 'input',
     name: 'github',
     message: 'What is your GitHub username?'
   },
