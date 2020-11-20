@@ -20,29 +20,29 @@ ${data.installation}
 
 ## Table of Contents
   * [Usage](#usage)
-  * [License](#license:)
-  * [Contributing](#contributing:)
-  * [Tests](#tests:)
-  * [Questions](#questions?)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
 ## Usage 
 
-    ${data.usage}
+  ${data.usage}
 
 ## License:
 ### ${data.license}
 
 ## Contributing:
   
-    ${data.contributing}
+  ${data.contributing}
 
 ## Tests:
    ${data.tests}
   
 ## Questions?
     
-    Check out other projects I have worked on here: ${data.github}
-    Email me with any questions regarding this project at: ${data.email}`
+  Check out other projects I have worked on here: ${data.github}
+  Email me with any questions regarding this project at: ${data.email}`
 }
 
 module.exports = generateMarkdown;
