@@ -26,23 +26,24 @@ ${data.installation}
   * [Questions](#questions?)
 
 ## Usage 
- ${data.usage}
+
+    ${data.usage}
 
 ## License:
 ### ${data.license}
 ${licenseBadge}
 
 ## Contributing:
-   ${data.contributing}
+  
+    ${data.contributing}
 
 ## Tests:
    ${data.tests}
   
 ## Questions?
-    ${data.questions} 
     
-GitHub: ${data.github}
-Email: ${data.email}`
+    Check out other projects I have worked on here: ${data.github}
+    Email me with any questions regarding this project at: ${data.email}`
 }
 
 module.exports = generateMarkdown;
