@@ -18,9 +18,17 @@ function generateMarkdown(data) {
 
 ${data.installation} 
 
+## Table of Contents
+  * [Usage](#usage)
+  * [License](#license:)
+  * [Contributing](#contributing:)
+  * [Tests](#tests:)
+  * [Questions](#questions?)
+
 ## Usage 
  ${data.usage}
 
+## License:
 ### ${data.license}
 ${licenseBadge}
 
