@@ -14,7 +14,6 @@
 ## Table of Contents
   * [Usage](#usage)
   * [License](#license)
-  * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
 
