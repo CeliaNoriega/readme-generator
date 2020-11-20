@@ -3,12 +3,12 @@
 
 rbreb 
 
-## Table of Contents
+### Table of Contents
   * [Usage](#usage)
-  * [License](#license:)
-  * [Contributing](#contributing:)
-  * [Tests](#tests:)
-  * [Questions](#questions?)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
 ## Usage 
  rbr
