@@ -5,12 +5,6 @@
 
   [Checkout my vid demonstrating how it works!](https://drive.google.com/file/d/1n-mju2t8JGq-I2VXIrqVzmIiAe5MSu2_/view)
 
-## Screenshots:
-  ![image](https://user-images.githubusercontent.com/71470687/99767509-03bd0380-2ab8-11eb-90b9-c1e7503789bc.png)
-  ![image](https://user-images.githubusercontent.com/71470687/99767732-5dbdc900-2ab8-11eb-9995-896a09fceceb.png)
-  ![image](https://user-images.githubusercontent.com/71470687/99767754-6adab800-2ab8-11eb-93ba-7dfd79f52400.png)
-
-
 ## Table of Contents
   * [Usage](#usage)
   * [License](#license)
@@ -31,3 +25,12 @@
     
   Check out other projects I have worked on here: https://github.com/CeliaNoriega    
   Email me with any questions regarding this project at: noriegacelia2124@gmail.com
+
+## Screenshots:
+  (1/3)
+  ![image](https://user-images.githubusercontent.com/71470687/99767509-03bd0380-2ab8-11eb-90b9-c1e7503789bc.png)
+  (2/3)
+  ![image](https://user-images.githubusercontent.com/71470687/99767732-5dbdc900-2ab8-11eb-9995-896a09fceceb.png)
+  (3/3)
+  ![image](https://user-images.githubusercontent.com/71470687/99767754-6adab800-2ab8-11eb-93ba-7dfd79f52400.png)
+
