@@ -26,5 +26,5 @@
   
 ## Questions?
     
-  Check out other projects I have worked on here: https://github.com/CeliaNoriega 
-  Email me with any questions regarding this project at:   noriegacelia2124@gmail.com
+  Check out other projects I have worked on here: https://github.com/CeliaNoriega    
+  Email me with any questions regarding this project at: noriegacelia2124@gmail.com
