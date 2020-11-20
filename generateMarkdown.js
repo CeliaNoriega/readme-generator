@@ -13,7 +13,7 @@ function generateMarkdown(data) {
     licenseBadge ='[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)'
   }
 //template for README
-  return `# ${data.title} 
+  return `# ${data.title}  ${licenseBadge}
   ${data.description}
 
 ${data.installation} 
@@ -31,7 +31,6 @@ ${data.installation}
 
 ## License:
 ### ${data.license}
-${licenseBadge}
 
 ## Contributing:
   
